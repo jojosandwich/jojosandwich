@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 - 😄 Pronouns: *He/Him/His*
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Sandwiches are my favorite food. 🥪
 
 <!---
 jojosandwich/jojosandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

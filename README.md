@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: *He/Him/His*
 - ⚡ Fun fact: Sandwiches are my favorite food. 🥪
-
+- 💰💻 Working towards earning a tech internship for Summer 2026.
 <!---
 jojosandwich/jojosandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
